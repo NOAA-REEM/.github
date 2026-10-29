@@ -9,7 +9,7 @@ Seattle, WA 98115 USA
 
 ## Code of Conduct
 
-Please review our [Code of Conduct](https://github.com/afsc-gap-products/.github/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guide](https://github.com/afsc-gap-products/.github/blob/main/.github/CONTRIBUTING.md). These are adapted from the [NMFS Open Science](https://github.com/nmfs-opensci) GitHub Organization. 
+Please review our [Code of Conduct](https://github.com/NOAA-REEM/.github/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guide](https://github.com/afsc-gap-products/.github/blob/main/.github/CONTRIBUTING.md). These are adapted from the [NMFS Open Science](https://github.com/nmfs-opensci) GitHub Organization. 
 
 
 **Suggestions and Comments**: If you see that the data, product, or metadata can be improved, you are invited to create a pull request, submit an issue to the code’s repository, or [submit an issue to the GitHub organization](https://github.com/afsc-gap-products/data-requests/issues).
