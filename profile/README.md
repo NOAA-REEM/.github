@@ -12,7 +12,7 @@ Seattle, WA 98115 USA
 Please review our [Code of Conduct](https://github.com/NOAA-REEM/.github/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guide](https://github.com/NOAA-REEM/.github/blob/main/.github/CONTRIBUTING.md). These are adapted from the [NMFS Open Science](https://github.com/nmfs-opensci) GitHub Organization. 
 
 ## NOAA README
-)
+
 This repository is a scientific product and is not official
 communication of the National Oceanic and Atmospheric Administration, or
 the United States Department of Commerce. All NOAA GitHub project code
